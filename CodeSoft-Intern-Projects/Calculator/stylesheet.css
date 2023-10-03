@@ -1,0 +1,26 @@
+html , body{
+    text-align: center;
+    height:fixed;
+    width: fixed;
+    background: radial-gradient(circle, rgb(255, 152, 0), rgb(0, 193, 255));
+
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 3px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 72px  ;
+    font-size: 1.3rem;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    margin: 10px ;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 4px;
+    font-size: 28px;
+}
